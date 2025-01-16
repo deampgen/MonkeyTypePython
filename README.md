@@ -29,8 +29,10 @@ After quitting the game, the program will display your average accuracy and aver
 
 # Example Usage
 
-```python
+```sh
 $ python monkeytype.py
+```
+```python
 
  ███▄ ▄███▓ ▒█████   ███▄    █  ██ ▄█▀▓█████▓██   ██▓▄▄▄█████▓▓██   ██▓ ██▓███  ▓█████
 ▓██▒▀█▀ ██▒▒██▒  ██▒ ██ ▀█   █  ██▄█▒ ▓█   ▀ ▒██  ██▒▓  ██▒ ▓▒ ▒██  ██▒▓██░  ██▒▓█   ▀
@@ -53,6 +55,7 @@ Statistics after 2 words:
 Average accuracy: 100%
 Average words per minute: 120
 ```
+
 # License
 
 This project is licensed under the MIT License. For more details, see the LICENSE file. We hope you enjoy using MonkeyType to improve your typing speed and accuracy! 🚀
