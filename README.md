@@ -12,9 +12,9 @@ Install Python: Ensure you have Python 3 installed. If not, download and install
 Download or clone the repository containing this script.
 Open a terminal and navigate to the directory where the script is located.
 Run the script using the command:
-'''sh
+```sh
 python monkeytype.py
-'''
+```
 
 # Play the Game
 
@@ -29,7 +29,7 @@ After quitting the game, the program will display your average accuracy and aver
 
 # Example Usage
 
-'''python
+```python
 $ python monkeytype.py
 
  ███▄ ▄███▓ ▒█████   ███▄    █  ██ ▄█▀▓█████▓██   ██▓▄▄▄█████▓▓██   ██▓ ██▓███  ▓█████
@@ -52,7 +52,7 @@ quit
 Statistics after 2 words:
 Average accuracy: 100%
 Average words per minute: 120
-'''
+```
 # License
 
 This project is licensed under the MIT License. For more details, see the LICENSE file. We hope you enjoy using MonkeyType to improve your typing speed and accuracy! 🚀
