@@ -31,8 +31,7 @@ After quitting the game, the program will display your average accuracy and aver
 
 ```sh
 $ python monkeytype.py
-```
-```python
+
 
  ███▄ ▄███▓ ▒█████   ███▄    █  ██ ▄█▀▓█████▓██   ██▓▄▄▄█████▓▓██   ██▓ ██▓███  ▓█████
 ▓██▒▀█▀ ██▒▒██▒  ██▒ ██ ▀█   █  ██▄█▒ ▓█   ▀ ▒██  ██▒▓  ██▒ ▓▒ ▒██  ██▒▓██░  ██▒▓█   ▀
